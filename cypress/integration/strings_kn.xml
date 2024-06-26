@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+  <string name="app_name">ನನ್ನ ಅಪ್ಲಿಕೇಶನ್</string>
+  <string name="hello_world">ಹಲೋ ವರ್ಲ್ಡ್!</string>
+  <string name="welcome_message">ನಮ್ಮ ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಸುಸ್ವಾಗತ</string>
+  <string name="login">ಲಗಾಟಿಸು</string>
+  <string name="signup">ಸೈನ್ ಅಪ್</string>
+</resources>

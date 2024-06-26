@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+  <string name="app_name">எனது விண்ணப்பம்</string>
+  <string name="hello_world">வணக்கம் உலகம்!</string>
+  <string name="welcome_message">எங்கள் பயன்பாட்டிற்கு வருக</string>
+  <string name="login">உள்நுழைய</string>
+  <string name="signup">பதிவு செய்க</string>
+</resources>

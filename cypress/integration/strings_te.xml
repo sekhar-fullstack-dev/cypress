@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+  <string name="app_name">నా దరఖాస్తు</string>
+  <string name="hello_world">హలో వరల్డ్!</string>
+  <string name="welcome_message">మా అనువర్తనానికి స్వాగతం</string>
+  <string name="login">ప్రవేశించండి</string>
+  <string name="signup">చేరడం</string>
+</resources>

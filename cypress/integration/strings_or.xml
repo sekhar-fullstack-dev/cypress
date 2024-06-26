@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+  <string name="app_name">ମୋର ଅନୁପ୍ରୟୋଗ</string>
+  <string name="hello_world">ନମସ୍କାର ବିଶ୍ୱବାସି!</string>
+  <string name="welcome_message">ଆମର ଆପ୍ କୁ ସ୍ୱାଗତ |</string>
+  <string name="login">ଭିତରକୁ ଯାଉ</string>
+  <string name="signup">ସାଇନ୍ ଅପ୍ କରନ୍ତୁ</string>
+</resources>
